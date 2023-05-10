@@ -6,7 +6,7 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, red, red, orange, orange, yellow);
+background-image: linear-gradient(to right top, green, green, white, white, orange , orange);
 }
 
 .header
