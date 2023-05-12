@@ -6,7 +6,7 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, green, green, white, white, orange , orange);
+background-image: linear-gradient(to left top, green, green, white, white, orange , orange);
 }
 
 .header
@@ -91,4 +91,9 @@ background-image: linear-gradient(to right top, green, green, white, white, oran
 .message_h4
 {
 	padding-left:5px;color:grey;
+}
+
+#loading{
+	padding-top: 50%;
+
 }
