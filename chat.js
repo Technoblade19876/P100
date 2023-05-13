@@ -23,7 +23,7 @@ function addUser()
     
     localStorage.setItem("user_name", user_name);
 
-    window.location = "Loadingpage.html";
+    window.location = "Chat_room.html";
     
 }
 
